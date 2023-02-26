@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
+  "scripts": { 
+    "start":"node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,9 +17,5 @@
   "bugs": {
     "url": "https://github.com/Rajat24111994/Server/issues"
   },
-  "homepage": "https://github.com/Rajat24111994/Server#readme",
-  "dependencies": {
-    "json": "^11.0.0",
-    "server": "^1.0.38"
-  }
+  "homepage": "https://github.com/Rajat24111994/Server#readme"
 }
