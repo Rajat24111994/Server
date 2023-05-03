@@ -1,1 +1,1 @@
-# Server
+An assignment of Massai school
